@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(230, 230, 230);
+
+    
+    text-align: center;
+   
+    
+}
+
+header{
+    border-bottom: 8px solid gray;
+    margin-bottom: 40px;
+}
+#first{
+    width: 440px;
+    height: 340px;
+    margin: 0 auto;
+ 
+   
+  
+
+
+}
+
+#second{
+    width: 440px;
+    height: 340px;
+    margin: 0 auto;
+ 
+   
+  
+
+
+}
+
+ img{
+    width: 450px;
+    height: 250px;
+    
+}
+footer{
+    margin-top: 100px;
+    background-color: aliceblue;
+    text-align: center;
+}
